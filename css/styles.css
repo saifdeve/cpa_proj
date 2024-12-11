@@ -702,10 +702,11 @@ a.navbar-logo:hover {
 -------------------------------------------------------------------*/
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.05)), url(../img/Dragonic.jpg);
-    box-shadow: inset 0 -10px 70px rgba(0, 0, 0, 0.75);
+    background-image: linear-gradient(rgba(241, 81, 6, 0.25), rgb(217, 255, 0)),url(https://techcrunch.com/wp-content/uploads/2012/10/css_phone_ipad_print.jpg?w=1024);
+    box-shadow: inset 0 -10px 70px rgba(231, 34, 34, 0.75);
     height: 75vh;
     background-position: 75%;
+    background-size: 100% 100%;
 }
 
 @media (min-width: 1200px) {
